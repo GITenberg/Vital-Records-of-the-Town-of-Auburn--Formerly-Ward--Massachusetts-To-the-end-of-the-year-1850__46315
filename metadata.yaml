@@ -1,0 +1,32 @@
+_repo: Vital-Records-of-the-Town-of-Auburn--Formerly-Ward--Massachusetts-To-the-end-of-the-year-1850__46315
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46315-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rice, Franklin P. (Franklin Pierce)
+    birthdate: 1852
+    deathdate: 1919
+    gutenberg_agent_id: '43717'
+    url: http://www.gutenberg.org/2009/agents/43717
+description: ''
+gutenberg_issued: '2014-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46315'
+  lccn: '01011222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epitaphs -- Massachusetts -- Auburn (Town)'
+- !lcsh 'Registers of births, etc. -- Massachusetts -- Auburn'
+- !lcsh 'Auburn (Mass. : Town) -- Genealogy'
+- !lcc 'F001'
+title: 'Vital Records of the Town of Auburn, (Formerly Ward), Massachusetts, To the
+  end of the year 1850
+
+  With the Inscriptions from the Old Burial Grounds'
+url: http://www.gutenberg.org/ebooks/46315
