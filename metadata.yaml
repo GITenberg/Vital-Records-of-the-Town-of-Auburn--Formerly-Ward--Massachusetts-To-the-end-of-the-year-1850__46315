@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43717'
     url: http://www.gutenberg.org/2009/agents/43717
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46315#Vital-Records-of-the-Town-of-Auburn--Formerly-Ward--Massachusetts-To-the-end-of-the-year-1850_
 gutenberg_issued: '2014-07-17'
 gutenberg_type: Text
 identifiers:
